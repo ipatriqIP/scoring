@@ -1,0 +1,75 @@
+# Développement du scoring
+
+## Données
+
+
+### Exploration des données
+
+
+```{r}
+library(lubridate)    # les dates
+
+```
+
+
+
+
+
+```{r}
+
+
+
+```
+
+
+variable à expliquer
+
+variables explicatives
+
+
+### Identification de la population éligible
+
+
+
+### Nettoyage des données
+
+
+
+### Equilibrage des données
+
+
+
+
+### Segmentation de la base d’étude : Clustering
+
+
+
+
+### Construction des variables explicatives
+
+
+
+
+### Optimisation des variables explicatives
+
+
+
+
+### Echantillonnage de la base d'étude
+
+
+
+
+
+## Méthodes
+
+
+### Construction des modèles
+
+
+
+### Evaluation des modèles
+
+
+
+### Interpretation des modèles 
